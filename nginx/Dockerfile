@@ -1,4 +1,4 @@
 FROM nginx:latest
-MAINTAINER takaya030
+MAINTAINER watnabe
 
 ADD server.conf /etc/nginx/conf.d/server.conf
