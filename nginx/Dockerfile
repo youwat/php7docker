@@ -1,4 +1,4 @@
 FROM nginx:latest
-MAINTAINER watnabe
+MAINTAINER watanabe
 
 ADD server.conf /etc/nginx/conf.d/server.conf
